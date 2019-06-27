@@ -2,7 +2,7 @@
   "name": "@redisrupt/react-svg-loader",
   "version": "1.0.0",
   "description": "a fork of react-svg-loader that works with latest babel@7",
-  "main": "index.js",
+  "main": "./loader.js",
   "keywords": ["svg-loader"],
   "author": "redisrupt",
   "license": "MIT",
